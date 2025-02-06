@@ -1,0 +1,4 @@
+dataset: synthetichuman
+factor: 0
+white_bkgd: true
+moving_cameras: true

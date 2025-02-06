@@ -1,0 +1,5 @@
+build
+.eggs
+svox/__pycache__
+dist
+svox.egg-info
